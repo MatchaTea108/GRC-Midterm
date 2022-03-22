@@ -31,7 +31,7 @@ body {
 /*body*/
 .jumbotron {
     height: 400px;
-    background-image: url(../images/Portrait.jpg);
+    background-image: url(Portrait.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
